@@ -6,21 +6,25 @@
 
 namespace invalpha
 {
-namespace AiMo
-{
-class fcCore
-{
-public:
-    fcCore();
-private:
-
-protected:
-};
-fcCore::fcCore()
-{
-
-}
-}
+    namespace AiMo
+    {
+        class fcCore
+        {
+            public:
+                fcCore();
+            private:
+                void DrawStartGIF();
+            protected:
+        };
+        fcCore::fcCore()
+        {
+                //dev in progess
+        }
+        void fcCore::DrawStartGIF()
+        {
+            //dev in progess
+        }
+    }
 }
 
 #endif // FC_MAIN_HXX
