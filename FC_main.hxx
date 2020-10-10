@@ -4,6 +4,7 @@
 #include <iostream>
 #include <cstdio>
 
+
 namespace invalpha
 {
     namespace AiMo
@@ -22,7 +23,9 @@ namespace invalpha
         }
         void fcCore::DrawStartGIF()
         {
-            //dev in progess
+            //Ò»¤Ä¤Î¥¢¥¦¥¿©`.¥¯¥é¥¹¤òÊ¹¤Ã¤¿¡£
+            GIFdrawer Gd;
+            Gd.DrawBulitIn();
         }
     }
 }

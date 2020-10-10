@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602329071 source:e:\programming\futurecloud\src\utillity.cpp
+	"Utillity.h"
+
+1602329700 e:\programming\futurecloud\include\utillity.h
+	<iostream>
+

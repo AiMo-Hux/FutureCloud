@@ -1,7 +1,9 @@
 #include<iostream>
 
+#include<include\Utillity.h>
 int main()
 {
-    //std::cout<<"测试"<<std::endl; :已测试GBK编码在本设备上的有效性。需要封装一个函数。
+    Utillity Util;
+    Util.IsThisComputerUsesGBK_Core();
 
 }

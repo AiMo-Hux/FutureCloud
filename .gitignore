@@ -1,5 +1,11 @@
+# C::B's files
 bin
 obj
 *.workspace
 *.layout
 *.cbp
+# My Memo
+*.memo
+*.devmemo
+# Photos/
+Photo
